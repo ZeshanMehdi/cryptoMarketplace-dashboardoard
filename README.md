@@ -2,7 +2,7 @@
 
  Images:
 
-https://github.com/user-attachments/assets/afa1fdd8-68e1-4a51-a864-ccf0ba05b2a0
+![image (1)](https://github.com/user-attachments/assets/afa1fdd8-68e1-4a51-a864-ccf0ba05b2a0)
 
 # Getting Started with Create React App
 
